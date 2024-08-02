@@ -1,0 +1,11 @@
+@import "/style/style.css";
+body {
+    background: url("/image/xtc.png");
+    color: #EAB750
+}
+a {
+    color: #FBEFD2
+}
+a:hover, a:visited {
+    color: #FBEFD2
+}
