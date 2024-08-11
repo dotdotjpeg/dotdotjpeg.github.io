@@ -3,3 +3,5 @@
 /workspace.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+# nothing in .idea folder (not interested in sharing personal files)
+/.idea

@@ -1,11 +1,14 @@
-@import "/style/style.css";
+@import '/style/style.css';
 body {
-    background: url("/image/xtc.png");
-    color: #EAB750
+    background: url('/img/xtc.png');
+    color: #eab750;
 }
+
 a {
-    color: #FBEFD2
+    color: #eab750;
 }
-a:hover, a:visited {
-    color: #FBEFD2
+
+a:hover,
+a:visited {
+    color: #fbefd2;
 }
