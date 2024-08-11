@@ -1,11 +1,6 @@
-@font-face {
-  font-family: 'Helvetica';
-  src: local('/style/Helvetica.woff');
-}
-
 body {
   background-color: #ec185b;
-  font: 2vmin 'Helvetica', serif;
+  font-size: 2vmin;
   text-align: center;
   border: 7px dotted;
   margin: 0 auto;
@@ -43,6 +38,10 @@ a:visited {
 
 fieldset {
   border: 4px solid;
+}
+
+legend {
+  font-weight: bold;
   text-align: center;
 }
 
