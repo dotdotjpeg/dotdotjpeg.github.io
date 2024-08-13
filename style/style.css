@@ -40,6 +40,12 @@ fieldset {
   border: 4px solid;
 }
 
+form {
+  align-self: center;
+  overflow: hidden;
+  padding: 0;
+}
+
 legend {
   font-weight: bold;
   text-align: center;
@@ -99,4 +105,20 @@ iframe {
   font-weight: bold;
   font-size: 5vmin;
   max-width: 100%;
+}
+
+.vid-con {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 35px;
+  height: 0;
+  overflow: hidden;
+}
+
+.vid-con iframe {
+  position: absolute;
+  top:0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
