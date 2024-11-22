@@ -16,7 +16,7 @@
 
 body {
   background-color: #ec185b;
-  font-size: 2vmin;
+  font-size: clamp(16rem);
   text-align: center;
   border: 7px dotted;
   margin: 0 auto;
