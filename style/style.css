@@ -16,7 +16,7 @@
 
 body {
   background-color: #ec185b;
-  font-size: clamp(16rem);
+  font-size: 1rem;
   text-align: center;
   border: 7px dotted;
   margin: 0 auto;
@@ -74,6 +74,7 @@ h1 {
   max-width: 100%;
   text-align: left;
   margin: 0;
+  border-bottom: 4px solid black;
 }
 
 h1::before {
@@ -93,10 +94,11 @@ h2 ~ p {
 hr {
   color: black;
   border: 2px solid;
-  margin: 0;
 }
-h2 + hr {
+
+section ~ hr {
   border: 1px solid;
+  margin-bottom: 0.5rem;
 }
 
 iframe {
