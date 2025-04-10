@@ -118,13 +118,9 @@ iframe {
 }
 
 .buttons {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(0,1fr));
-  width: 75%;
-  grid-row: span;
+  display: flex;
+  flex-wrap: wrap;
   justify-content: center;
-  align-items: center;
-  align-self: center;
 }
 
 .enter {
