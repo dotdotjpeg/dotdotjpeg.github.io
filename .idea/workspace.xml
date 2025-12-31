@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8872e27f-cc61-459c-8673-25d8b95013de" name="Changes" comment="clicky opacityty images">
+      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buttons.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style/buttons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text/mascots.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entered.html" beforeDir="false" afterPath="$PROJECT_DIR$/entered.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guestbook.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/button.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/button.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/eff.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gumble.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/gumble.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text.html" beforeDir="false" afterPath="$PROJECT_DIR$/text.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/xtc.html" beforeDir="false" afterPath="$PROJECT_DIR$/text/xtc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/~dot.html" beforeDir="false" afterPath="$PROJECT_DIR$/~dot.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="dotdotjpeg &lt;superduperfortnitebuttsex@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dotdotjpeg&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/dotdotjpeg/dotdotjpeg.github.io.git&quot;,
+    &quot;accountId&quot;: &quot;47397ebc-e0a5-4701-93c9-c824f04acc58&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2jXTwRg951SXeSsnHj1nNpWDmGH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.entered.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-BrowserCfgProblems&quot;: &quot;Browser configuration problems&quot;,
+    &quot;Notification.DoNotAsk-BrowserCfgProblems&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/dot/code projs/dotjpeg&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-WS-252.26830.93" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8872e27f-cc61-459c-8673-25d8b95013de" name="Changes" comment="" />
+      <created>1721532660496</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721532660496</updated>
+      <workItem from="1721532661464" duration="4550000" />
+      <workItem from="1721588473467" duration="29618000" />
+      <workItem from="1721624486949" duration="128000" />
+      <workItem from="1721697098660" duration="5034000" />
+      <workItem from="1721789174734" duration="3417000" />
+      <workItem from="1721867286216" duration="4728000" />
+      <workItem from="1721942753353" duration="811000" />
+      <workItem from="1721959963766" duration="2842000" />
+      <workItem from="1722036639998" duration="1254000" />
+      <workItem from="1722224233059" duration="436000" />
+      <workItem from="1722359333200" duration="2419000" />
+      <workItem from="1722471946230" duration="1063000" />
+      <workItem from="1722473022501" duration="2436000" />
+      <workItem from="1722565526053" duration="584000" />
+      <workItem from="1722566120889" duration="3360000" />
+      <workItem from="1722651069901" duration="808000" />
+      <workItem from="1722893312551" duration="5278000" />
+      <workItem from="1722918994718" duration="2000" />
+      <workItem from="1722980633679" duration="3115000" />
+      <workItem from="1723084447645" duration="5268000" />
+      <workItem from="1723093484925" duration="1016000" />
+      <workItem from="1723152341792" duration="13119000" />
+      <workItem from="1723232570652" duration="9405000" />
+      <workItem from="1723268362507" duration="1211000" />
+      <workItem from="1723339486755" duration="9522000" />
+      <workItem from="1723357701960" duration="413000" />
+      <workItem from="1723410937813" duration="5171000" />
+      <workItem from="1723416499283" duration="37000" />
+      <workItem from="1723416551990" duration="5194000" />
+      <workItem from="1723422799207" duration="13473000" />
+      <workItem from="1723436918712" duration="55000" />
+      <workItem from="1723490727664" duration="25000" />
+      <workItem from="1723511861263" duration="1566000" />
+      <workItem from="1723513527619" duration="55000" />
+      <workItem from="1723513642759" duration="7000" />
+      <workItem from="1723513715990" duration="59000" />
+      <workItem from="1723513849576" duration="336000" />
+      <workItem from="1723585893673" duration="3329000" />
+      <workItem from="1723953663895" duration="1415000" />
+      <workItem from="1724018522560" duration="9797000" />
+      <workItem from="1724031740708" duration="475000" />
+      <workItem from="1724110137944" duration="2508000" />
+      <workItem from="1724526822123" duration="6000" />
+      <workItem from="1724605132535" duration="2715000" />
+      <workItem from="1725812951360" duration="191000" />
+      <workItem from="1727653163196" duration="504000" />
+      <workItem from="1732208454551" duration="5999000" />
+      <workItem from="1732308502294" duration="470000" />
+      <workItem from="1732811479630" duration="11523000" />
+      <workItem from="1733871291059" duration="2916000" />
+      <workItem from="1734221039168" duration="1426000" />
+      <workItem from="1734237568366" duration="4754000" />
+      <workItem from="1734310149621" duration="55000" />
+      <workItem from="1734312255346" duration="27000" />
+      <workItem from="1734312350287" duration="1406000" />
+      <workItem from="1734626830770" duration="1203000" />
+      <workItem from="1734722591284" duration="2326000" />
+      <workItem from="1734814675726" duration="607000" />
+      <workItem from="1734903462749" duration="2711000" />
+      <workItem from="1734923911563" duration="592000" />
+      <workItem from="1734977753444" duration="442000" />
+      <workItem from="1735004950209" duration="641000" />
+      <workItem from="1735351104742" duration="2606000" />
+      <workItem from="1735412096163" duration="5000" />
+      <workItem from="1735505893177" duration="4460000" />
+      <workItem from="1736212777010" duration="1318000" />
+      <workItem from="1737352471918" duration="58000" />
+      <workItem from="1737838977450" duration="3093000" />
+      <workItem from="1737858306242" duration="4544000" />
+      <workItem from="1737867946498" duration="446000" />
+      <workItem from="1737869022610" duration="4000" />
+      <workItem from="1737869046051" duration="1176000" />
+      <workItem from="1737919830213" duration="7703000" />
+      <workItem from="1738378204047" duration="1691000" />
+      <workItem from="1738525605879" duration="1895000" />
+      <workItem from="1738958578346" duration="5027000" />
+      <workItem from="1739061601812" duration="2416000" />
+      <workItem from="1739128004578" duration="2324000" />
+      <workItem from="1739145656403" duration="104000" />
+      <workItem from="1739148933502" duration="2616000" />
+      <workItem from="1739693132352" duration="52000" />
+      <workItem from="1739744677430" duration="1809000" />
+      <workItem from="1739761990875" duration="2420000" />
+      <workItem from="1740180736382" duration="3365000" />
+      <workItem from="1740197479564" duration="1309000" />
+      <workItem from="1740249785139" duration="3465000" />
+      <workItem from="1742431677436" duration="2549000" />
+      <workItem from="1742870208990" duration="3335000" />
+      <workItem from="1743121639596" duration="21000" />
+      <workItem from="1743624896583" duration="2773000" />
+      <workItem from="1744235142850" duration="704000" />
+      <workItem from="1744252738230" duration="10422000" />
+      <workItem from="1744337253708" duration="605000" />
+      <workItem from="1744426965371" duration="1220000" />
+      <workItem from="1744503615038" duration="5000" />
+      <workItem from="1745018806300" duration="855000" />
+      <workItem from="1745279281168" duration="1221000" />
+      <workItem from="1745362843410" duration="2000" />
+      <workItem from="1745533010647" duration="2551000" />
+      <workItem from="1745707554824" duration="9000" />
+      <workItem from="1745722100686" duration="1298000" />
+      <workItem from="1745866676456" duration="624000" />
+      <workItem from="1745974898344" duration="4396000" />
+      <workItem from="1746569071260" duration="602000" />
+      <workItem from="1747787019094" duration="8000" />
+      <workItem from="1747941973091" duration="10000" />
+      <workItem from="1748236827358" duration="442000" />
+      <workItem from="1748283094016" duration="967000" />
+      <workItem from="1748370855247" duration="1812000" />
+      <workItem from="1748554154682" duration="11000" />
+      <workItem from="1748554254582" duration="598000" />
+      <workItem from="1750121177677" duration="1167000" />
+      <workItem from="1750474369843" duration="722000" />
+      <workItem from="1750799098301" duration="1196000" />
+      <workItem from="1752118730508" duration="514000" />
+      <workItem from="1752355765069" duration="600000" />
+      <workItem from="1752440022101" duration="1564000" />
+      <workItem from="1752612537580" duration="1000" />
+      <workItem from="1752791075168" duration="2837000" />
+      <workItem from="1758832679361" duration="16000" />
+      <workItem from="1758842152323" duration="22000" />
+      <workItem from="1759008727741" duration="508000" />
+      <workItem from="1759010241854" duration="650000" />
+      <workItem from="1759019430656" duration="7000" />
+      <workItem from="1759181102635" duration="698000" />
+      <workItem from="1759186485418" duration="389000" />
+      <workItem from="1759707912342" duration="21000" />
+      <workItem from="1759710132067" duration="414000" />
+      <workItem from="1760239091024" duration="897000" />
+      <workItem from="1760375387253" duration="1067000" />
+      <workItem from="1760486850802" duration="157000" />
+      <workItem from="1760563525643" duration="597000" />
+      <workItem from="1760669586670" duration="760000" />
+      <workItem from="1763876337455" duration="613000" />
+      <workItem from="1763935668743" duration="602000" />
+      <workItem from="1764012957675" duration="598000" />
+      <workItem from="1764208461227" duration="1471000" />
+      <workItem from="1764209959164" duration="27000" />
+      <workItem from="1764210005485" duration="3843000" />
+      <workItem from="1764276485610" duration="4840000" />
+      <workItem from="1764311849553" duration="128000" />
+      <workItem from="1764455284215" duration="6165000" />
+      <workItem from="1764537316755" duration="7626000" />
+      <workItem from="1764559587460" duration="2482000" />
+      <workItem from="1764872933060" duration="6911000" />
+      <workItem from="1764966453816" duration="2687000" />
+      <workItem from="1764991199459" duration="876000" />
+      <workItem from="1765506167742" duration="603000" />
+      <workItem from="1765936144441" duration="23000" />
+      <workItem from="1766447393607" duration="59000" />
+      <workItem from="1766532669154" duration="769000" />
+      <workItem from="1766537806155" duration="1313000" />
+      <workItem from="1766623856997" duration="1053000" />
+      <workItem from="1766784498066" duration="2394000" />
+      <workItem from="1766892414840" duration="107000" />
+      <workItem from="1767053993845" duration="921000" />
+      <workItem from="1767124732462" duration="7358000" />
+    </task>
+    <task id="LOCAL-00001" summary="added exisitng from ide files as of 10:56 est 8/1/24">
+      <option name="closed" value="true" />
+      <created>1722568512533</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722568512533</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added exisitng from ide files as of 10:56 est 8/1/24">
+      <option name="closed" value="true" />
+      <created>1722568894806</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722568894806</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added exisitng from ide files as of 10:56 est 8/1/24">
+      <option name="closed" value="true" />
+      <created>1722568906832</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722568906832</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added exisitng from ide files as of 10:56 est 8/1/24">
+      <option name="closed" value="true" />
+      <created>1722651131636</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1722651131636</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added .nojekyll file (attempting to mitigate 404 issue w/ ~dot)">
+      <option name="closed" value="true" />
+      <created>1722651447502</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1722651447502</updated>
+    </task>
+    <task id="LOCAL-00006" summary="- new pages!! (guestbook, xtc, text)&#10;- edited index page&#10;- almost code rewrite for aria/&quot;accessibility&quot; and optimization&#10;- folder restructuring ('image' to 'img', moved )&#10;- moved .gitignore to root and included rule for .idea bc WHAT">
+      <option name="closed" value="true" />
+      <created>1723355520978</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1723355520978</updated>
+    </task>
+    <task id="LOCAL-00007" summary="changed .gitignore file (didn't work, mistake)">
+      <option name="closed" value="true" />
+      <created>1723355778235</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1723355778235</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fuck it i just excluded that folder in my ide and reverted gitignore">
+      <option name="closed" value="true" />
+      <created>1723356093942</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1723356093942</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fuck it i just excluded that folder in my ide and reverted gitignore">
+      <option name="closed" value="true" />
+      <created>1723356125504</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1723356125504</updated>
+    </task>
+    <task id="LOCAL-00010" summary="added alt text">
+      <option name="closed" value="true" />
+      <created>1723357313415</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1723357313415</updated>
+    </task>
+    <task id="LOCAL-00011" summary="added alt text">
+      <option name="closed" value="true" />
+      <created>1723357338659</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1723357338659</updated>
+    </task>
+    <task id="LOCAL-00012" summary="NOT AGAIN (i'm stupid)">
+      <option name="closed" value="true" />
+      <created>1723357383248</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1723357383248</updated>
+    </task>
+    <task id="LOCAL-00013" summary="THE FONT  WASN'T DISPLAYING BC THE LOCAL PATH WAS CASE SENSTITIVE">
+      <option name="closed" value="true" />
+      <created>1723357555383</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1723357555383</updated>
+    </task>
+    <task id="LOCAL-00014" summary="edited subtitle text on text for xtc, edited first h2 for xtc page">
+      <option name="closed" value="true" />
+      <created>1723357634070</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1723357634070</updated>
+    </task>
+    <task id="LOCAL-00015" summary="edited subtitle text on text for xtc, edited first h2 for xtc page">
+      <option name="closed" value="true" />
+      <created>1723357753114</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1723357753114</updated>
+    </task>
+    <task id="LOCAL-00016" summary="AAAA I JUST CHANGED THE CAPITALIZATION OF THE ORIGINAL FILE SO I CAN JSUT KEEP CAPS IN THE CSS KMS">
+      <option name="closed" value="true" />
+      <created>1723358070620</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1723358070620</updated>
+    </task>
+    <task id="LOCAL-00017" summary="- added 'working' guestbook!&#10;- edited file path names for optimization&#10;- deleted helvetica bc while i did edit it to work, it looked ugly af">
+      <option name="closed" value="true" />
+      <created>1723414345180</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1723414345180</updated>
+    </task>
+    <task id="LOCAL-00018" summary="- actually deleted helvetica file">
+      <option name="closed" value="true" />
+      <created>1723414601547</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1723414601547</updated>
+    </task>
+    <task id="LOCAL-00019" summary="added html element w lang attribute and tabbed all pages">
+      <option name="closed" value="true" />
+      <created>1723415614280</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1723415614280</updated>
+    </task>
+    <task id="LOCAL-00020" summary="my pages had the wrong stylehseet by accident when i was cping">
+      <option name="closed" value="true" />
+      <created>1723415785351</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1723415785351</updated>
+    </task>
+    <task id="LOCAL-00021" summary="span element on buttons created weird underline graphic padding so i just coded a messy grid. im so tired">
+      <option name="closed" value="true" />
+      <created>1723424749559</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1723424749559</updated>
+    </task>
+    <task id="LOCAL-00022" summary="delted css button, cleaned up buttons class a little bit but not much ;p">
+      <option name="closed" value="true" />
+      <created>1723424892028</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1723424892028</updated>
+    </task>
+    <task id="LOCAL-00023" summary="XTC PAGE DONE for now ;) and entered page update blog post news log&#10;corrected titles too LOL they were all ther same by accident">
+      <option name="closed" value="true" />
+      <created>1723435824526</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1723435824526</updated>
+    </task>
+    <task id="LOCAL-00024" summary="recolored hr on xtc&#10;tweaked border and shingi subttiel on xtc page">
+      <option name="closed" value="true" />
+      <created>1723436377859</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1723436377859</updated>
+    </task>
+    <task id="LOCAL-00025" summary="recolored hr on xtc&#10;tweaked border and shingi subttiel on xtc page">
+      <option name="closed" value="true" />
+      <created>1723436433805</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1723436433805</updated>
+    </task>
+    <task id="LOCAL-00026" summary="recolored hr on xtc&#10;tweaked border and shingi subttiel on xtc page">
+      <option name="closed" value="true" />
+      <created>1723436440987</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1723436440987</updated>
+    </task>
+    <task id="LOCAL-00027" summary="tweaker border again LOL">
+      <option name="closed" value="true" />
+      <created>1723436693174</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1723436693174</updated>
+    </task>
+    <task id="LOCAL-00028" summary="corrected iframe video not scaling on phone screens (note: code stolen from &quot;https://www.smashingmagazine.com/2014/02/making-embedded-content-work-in-responsive-design/&quot;, insanely hacky but whatever it was from 2014&#10;&#10;made guestbok scale okay&#10;&#10;made mikage button on front scale okay">
+      <option name="closed" value="true" />
+      <created>1723513435015</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1723513435015</updated>
+    </task>
+    <task id="LOCAL-00029" summary="changed image rendering">
+      <option name="closed" value="true" />
+      <created>1723513577034</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1723513577034</updated>
+    </task>
+    <task id="LOCAL-00030" summary="made a little guy bounce on index, added guestbook comment + formatting">
+      <option name="closed" value="true" />
+      <created>1724031095074</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1724031095074</updated>
+    </task>
+    <task id="LOCAL-00031" summary="new qbook comment, added 12h time periods (am, pm) to timestamps">
+      <option name="closed" value="true" />
+      <created>1724115425340</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1724115425340</updated>
+    </task>
+    <task id="LOCAL-00032" summary="correction to xtc page LOL">
+      <option name="closed" value="true" />
+      <created>1724607835395</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1724607835395</updated>
+    </task>
+    <task id="LOCAL-00033" summary="new guestbook submission, new news">
+      <option name="closed" value="true" />
+      <created>1732244060666</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1732244060666</updated>
+    </task>
+    <task id="LOCAL-00034" summary="fixed guestbook + added submission">
+      <option name="closed" value="true" />
+      <created>1732811807292</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1732811807292</updated>
+    </task>
+    <task id="LOCAL-00035" summary="new news and email addition on ~dot">
+      <option name="closed" value="true" />
+      <created>1733874106638</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1733874106638</updated>
+    </task>
+    <task id="LOCAL-00036" summary="news clarification">
+      <option name="closed" value="true" />
+      <created>1733874133282</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1733874133282</updated>
+    </task>
+    <task id="LOCAL-00037" summary="news clarification clarification">
+      <option name="closed" value="true" />
+      <created>1733874940790</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1733874940790</updated>
+    </task>
+    <task id="LOCAL-00038" summary="ANGER INDUCING INFORMATION">
+      <option name="closed" value="true" />
+      <created>1734922778501</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1734922778501</updated>
+    </task>
+    <task id="LOCAL-00039" summary="fine that property didn't need to work anywyas">
+      <option name="closed" value="true" />
+      <created>1735516902520</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1735516902520</updated>
+    </task>
+    <task id="LOCAL-00040" summary="shwee shwee">
+      <option name="closed" value="true" />
+      <created>1739145601659</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1739145601659</updated>
+    </task>
+    <task id="LOCAL-00041" summary="just changing mage metadata whatever">
+      <option name="closed" value="true" />
+      <created>1739145733659</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1739145733659</updated>
+    </task>
+    <task id="LOCAL-00042" summary="just changing mage metadata whatever">
+      <option name="closed" value="true" />
+      <created>1739145751809</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1739145751809</updated>
+    </task>
+    <task id="LOCAL-00043" summary="new buttons (and button css i think?) / gumble update / new gbook entries / no real progress ;)">
+      <option name="closed" value="true" />
+      <created>1744256818419</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1744256818419</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="AAAA I JUST CHANGED THE CAPITALIZATION OF THE ORIGINAL FILE SO I CAN JSUT KEEP CAPS IN THE CSS KMS" />
+    <MESSAGE value="- added 'working' guestbook!&#10;- edited file path names for optimization&#10;- deleted helvetica bc while i did edit it to work, it looked ugly af" />
+    <MESSAGE value="- actually deleted helvetica file" />
+    <MESSAGE value="added html element w lang attribute and tabbed all pages" />
+    <MESSAGE value="my pages had the wrong stylehseet by accident when i was cping" />
+    <MESSAGE value="span element on buttons created weird underline graphic padding so i just coded a messy grid. im so tired" />
+    <MESSAGE value="delted css button, cleaned up buttons class a little bit but not much ;p" />
+    <MESSAGE value="XTC PAGE DONE for now ;) and entered page update blog post news log&#10;corrected titles too LOL they were all ther same by accident" />
+    <MESSAGE value="recolored hr on xtc&#10;tweaked border and shingi subttiel on xtc page" />
+    <MESSAGE value="tweaker border again LOL" />
+    <MESSAGE value="corrected iframe video not scaling on phone screens (note: code stolen from &quot;https://www.smashingmagazine.com/2014/02/making-embedded-content-work-in-responsive-design/&quot;, insanely hacky but whatever it was from 2014&#10;&#10;made guestbok scale okay&#10;&#10;made mikage button on front scale okay" />
+    <MESSAGE value="changed image rendering" />
+    <MESSAGE value="made a little guy bounce on index, added guestbook comment + formatting" />
+    <MESSAGE value="new qbook comment, added 12h time periods (am, pm) to timestamps" />
+    <MESSAGE value="correction to xtc page LOL" />
+    <MESSAGE value="new guestbook submission, new news" />
+    <MESSAGE value="fixed guestbook + added submission" />
+    <MESSAGE value="new news and email addition on ~dot" />
+    <MESSAGE value="news clarification" />
+    <MESSAGE value="news clarification clarification" />
+    <MESSAGE value="ANGER INDUCING INFORMATION" />
+    <MESSAGE value="fine that property didn't need to work anywyas" />
+    <MESSAGE value="shwee shwee" />
+    <MESSAGE value="just changing mage metadata whatever" />
+    <MESSAGE value="new buttons (and button css i think?) / gumble update / new gbook entries / no real progress ;)" />
+    <option name="LAST_COMMIT_MESSAGE" value="new buttons (and button css i think?) / gumble update / new gbook entries / no real progress ;)" />
+  </component>
+</project>

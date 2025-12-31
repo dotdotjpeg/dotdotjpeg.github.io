@@ -1,0 +1,32 @@
+@import '/style/style.css';
+
+body {
+  background: sandybrown url('/img/cork.png');
+}
+
+a {
+  color: white;
+  text-shadow:
+    0 0 0.3em black,
+    0 0 0.3em black,
+    0 0 0.3em black,
+    0 0 0.3em black
+}
+
+h1 {
+  color: white;
+  text-shadow:
+    0 0 0.3em black,
+    0 0 0.3em black,
+    0 0 0.3em black,
+    0 0 0.3em black
+}
+
+main {
+  color: white;
+  text-shadow:
+    0 0 0.3em black,
+    0 0 0.3em black,
+    0 0 0.3em black,
+    0 0 0.3em black
+}

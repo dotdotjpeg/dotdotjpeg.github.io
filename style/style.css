@@ -15,10 +15,10 @@
 }
 
 body {
-  background-color: #ec185b;
+  background: #ec185b;
   font-size: 1rem;
   text-align: center;
-  border: 7px dotted;
+  border: 7px dotted black;
   margin: 0 auto;
   padding: 10px;
   width: 50vw;
@@ -37,11 +37,13 @@ table, tr {
 }
 
 img {
-  display: inline;
   align-self: center;
-  max-width: 100%;
+  max-width: 100%; /* should change to any variety of v_ units*/
   object-fit: scale-down;
-  image-rendering: pixelated;
+}
+
+img:hover {
+  opacity: 0.8;
 }
 
 a {
@@ -50,7 +52,7 @@ a {
 
 a:hover,
 a:visited {
-  color: #3b5870;
+  color: mediumslateblue;
 }
 
 fieldset {
@@ -62,6 +64,7 @@ footer {
   font-size: 5rem;
   position: fixed;
   left: 5px;
+  z-index: -1;
 }
 
 form {
@@ -76,6 +79,7 @@ legend {
 }
 
 h1 {
+  font-family: sans-serif;
   font-weight: bold;
   font-size: 5vmin;
   max-width: 100%;
@@ -92,7 +96,7 @@ h2 {
   margin: 0;
 }
 
-h2 ~ p {
+section > p {
   text-align: left;
   text-wrap: wrap;
 }
@@ -123,6 +127,15 @@ iframe {
   justify-content: center;
 }
 
+.cw {
+  filter: blur(0.25em);
+}
+
+.cw:hover {
+  filter: blur(0);
+  opacity: 1;
+}
+
 .enter {
   font-weight: bold;
   font-size: 5vmin;
@@ -134,6 +147,10 @@ iframe {
   margin: 2vh 3vw;
   padding: 0.5em;
   text-align: justify;
+}
+
+.left{
+  float: left;
 }
 
 .lil-guy{
@@ -154,4 +171,9 @@ iframe {
   left: 0;
   width: 100%;
   height: 100%;
+}
+
+.webring {
+  width: 10em;
+  align-self: center;
 }
