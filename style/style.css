@@ -15,10 +15,11 @@
 }
 
 body {
-  background: #ec185b;
+  background: #ffb50a;
+  color: #b72441;
   font-size: 1rem;
   text-align: center;
-  border: 7px dotted black;
+  border: 7px dotted #b72441;
   margin: 0 auto;
   padding: 10px;
   width: 50vw;
@@ -47,7 +48,7 @@ img:hover {
 }
 
 a {
-  color: black;
+  color: #b72441;
 }
 
 a:hover,
@@ -102,7 +103,7 @@ section > p {
 }
 
 hr {
-  color: black;
+  color: #b72441;
   border: 2px solid;
   margin: 0;
 }
@@ -127,19 +128,15 @@ iframe {
   justify-content: center;
 }
 
-.cw {
-  filter: blur(0.25em);
-}
-
-.cw:hover {
-  filter: blur(0);
-  opacity: 1;
-}
-
 .enter {
   font-weight: bold;
   font-size: 5vmin;
   max-width: 100%;
+}
+
+.comics {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
 }
 
 .comment {
@@ -149,8 +146,23 @@ iframe {
   text-align: justify;
 }
 
+.cw {
+  filter: blur(0.25em);
+}
+
+.cw:hover {
+  filter: blur(0);
+  opacity: 1;
+}
+
 .left{
   float: left;
+}
+
+.leftbutfortextcausewhogivesashit {
+  text-align: left;
+  display: block;
+  margin: 30px ;
 }
 
 .lil-guy{
