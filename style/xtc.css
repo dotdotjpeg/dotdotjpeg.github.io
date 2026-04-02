@@ -1,6 +1,7 @@
 @import '/style/style.css';
 body {
     background: url('/img/xtc.png');
+    border: 7px dotted #eab750;
     color: #eab750;
 }
 
